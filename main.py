@@ -56,8 +56,6 @@ for n in range(0, 10000):
                 print i
                 transcript_list.append(transcript_semester)
 
-        print "..................................."
-
         for transcript in transcript_list:
                 print
                 for semester in transcript:
